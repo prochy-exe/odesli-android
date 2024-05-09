@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Odesli</string>
+    <string name="convert_link">Convert link</string>
+    <string name="original_url">Original URL</string>
+    <string name="output_service">Output service</string>
+    <string name="album_not_found_error">Album not found on this service</string>
+    <string name="song_not_found_error">Song not found on this service</string>
+    <string name="credits">Credits</string>
+    <string name="al_credits">API/Library Credits</string>
+    <string name="developer" translatable="false">Dominik Procházka(@prochy_exe)</string>
+    <string name="developer_substring">Made with &lt;3 in Slovakia</string>
+    <string name="easter_egg">Stop touching me >_&lt;</string>
+    <string name="share_settings">Share settings</string>
+    <string name="share_settings_desc">These options will take place when you share a link to the app through the share menu</string>
+    <string name="preferred_share_service">Preferred share service</string>
+    <string name="auto_copy">Auto copy link in share menu</string>
+    <string name="show_on_failed_setting">Show popup when song/album not found</string>
+    <string name="ok">OK</string>
+    <string name="reset">Reset</string>
+    <string name="album_not_found_error_popup">Album not found on</string>
+    <string name="song_not_found_error_popup">Song not found on</string>
+    <string name="unexpected_error">Unexpected error occurred</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="open">Open</string>
+    <string name="image_error">Image failed to load</string>
+
+</resources>

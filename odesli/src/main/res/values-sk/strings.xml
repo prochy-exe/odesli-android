@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="original_url">Pôvodná URL</string>
+    <string name="preferred_share_service">Preferovaná služba pri zdieľaní</string>
+    <string name="auto_copy">Automaticky skopírovať odkaz v menu zdieľania</string>
+    <string name="convert_link">Prekonvertovať odkaz</string>
+    <string name="output_service">Výsledná služba</string>
+    <string name="credits">Informácie o aplikácií</string>
+    <string name="al_credits">Zdroje API/Knižníc</string>
+    <string name="developer_substring">Naprogramované s &lt;3 na Slovensku</string>
+    <string name="easter_egg">Nechytaj sa ma! >_&lt;</string>
+    <string name="share_settings">Nastavenia zdielania</string>
+    <string name="share_settings_desc">Tieto nastavenia budú aplikované keď budete zdieľať odkaz cez menu zdieľania</string>
+    <string name="ok">OK</string>
+    <string name="reset">Resetovať</string>
+    <string name="unexpected_error">Nastala neočakávaná chyba</string>
+    <string name="album_not_found_error">Album nebol nájdený na tejto službe</string>
+    <string name="song_not_found_error">Pesníčka nebola nájdená na tejto službe</string>
+    <string name="album_not_found_error_popup">Album nebol nájdený na</string>
+    <string name="song_not_found_error_popup">Pesníčka nebola nájdená na</string>
+    <string name="share">Zdielať</string>
+    <string name="copy">Kopírovať</string>
+    <string name="open">Otvoriť</string>
+    <string name="image_error">Obrázok nebolo možné načítať</string>
+    <string name="show_on_failed_setting">Ukázať menu keď pesníčka/album nebol nájdený</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Odesli" parent="Theme.Material3.DynamicColors.Dark.NoActionBar" />
+</resources>
